@@ -1,0 +1,23 @@
+header {
+    background-color: rgb(18, 71, 87);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+li {
+    display:inline-block;
+    margin: 10px;
+    padding: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(210, 233, 228);
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+.titulo {
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 20px;
+    color: rgb(210, 233, 228);
+}
